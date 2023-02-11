@@ -1,0 +1,11 @@
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\bin\Debug\Promedio.exe
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\bin\Debug\Promedio.pdb
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\obj\Debug\Promedio.csproj.AssemblyReference.cache
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\obj\Debug\Promedio.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\obj\Debug\Promedio.Form1.resources
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\obj\Debug\Promedio.Properties.Resources.resources
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\obj\Debug\Promedio.csproj.GenerateResource.cache
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\obj\Debug\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\obj\Debug\Promedio.exe
+C:\Users\IT\Documents\Lenguaje3\Asincrona\Funcion-as-ncrona-de-promedio\Promedio\Promedio\obj\Debug\Promedio.pdb
